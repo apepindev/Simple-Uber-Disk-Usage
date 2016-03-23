@@ -6,7 +6,7 @@ A simple widget to show current occupied space on your primary hard drive. Just 
 
 To enable, place the `hddspace.widget` folder in your `Übersicht/widgets` directory.
 
-###### Todo:
+## Todo:
 - Show max and occupied space
 
 Get more widgets at [Übersicht][1]!
