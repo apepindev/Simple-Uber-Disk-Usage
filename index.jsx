@@ -4,7 +4,7 @@ import { css } from 'uebersicht';
 export const className = css`
   min-width: 150px;
 
-  top:    1em;
+  top:    32px;
   bottom: 0;
   right:  3%;
 
@@ -55,7 +55,7 @@ const nameCss = css`
 
 export const command = `{ df -Hl; diskutil list; } | grep "disk\\ds"`;
 
-export const refreshFrequency = (1000 * 10); // 10 seconds
+export const refreshFrequency = (1000 * 5); // 5 seconds
 
 export const render = ({ output, error }) => {
   if (error || !output) {
