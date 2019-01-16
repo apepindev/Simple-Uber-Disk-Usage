@@ -1,6 +1,6 @@
 {
-  "name": "Simple Disk Stats",
+  "name": "Drive Space",
   "description": "Minimal occupied space status.",
-  "author": "Andrew Pepin",
-  "email": "paradiddley@gmail.com"
+  "author": "David Idol",
+  "email": "david.idol@gmail.com"
 }
